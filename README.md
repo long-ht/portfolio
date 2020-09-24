@@ -1,4 +1,4 @@
-# [Portfolio](https://long-ht.github.io/my-portfolio/#/)  
+# [Portfolio](https://long-ht.github.io/portfolio/#/)  
 My own personal website.
 ![Demo](demo/demo.png?raw=true)
 How to run:
